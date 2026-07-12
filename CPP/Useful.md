@@ -1,3 +1,6 @@
+
+## Compiler related notes
+- `#pragma` directives maybe used to enforce specific compiler optimizations
 ## Flags
 
 - Use `-pedantic-errors` to disable compiler extensions
