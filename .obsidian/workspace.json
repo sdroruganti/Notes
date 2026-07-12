@@ -4,39 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "c2c75eef564ac43b",
+        "id": "cc621a558aeb9492",
         "type": "tabs",
         "children": [
           {
-            "id": "d9c82cd195e23a44",
+            "id": "bba51401b2146bce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS149/Lecture 2.md",
+                "file": "CPP/0_Intro/0.4 - Introduction to C++ development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2"
+              "title": "0.4 - Introduction to C++ development"
             }
           },
           {
-            "id": "f2e4ab2936778b2c",
+            "id": "358fabc95084477b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS149/Lecture 3.md",
+                "file": "CPP/0_Intro/0.5 - Introduction to the compiler, linker, and libraries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3"
+              "title": "0.5 - Introduction to the compiler, linker, and libraries"
+            }
+          },
+          {
+            "id": "d52f0f010d9d0aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPP/Useful.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Useful"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS149/Lecture 3.md",
+                "file": "CS149/Lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 3"
+              "title": "Backlinks for Lecture 4"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS149/Lecture 3.md",
+                "file": "CS149/Lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 3"
+              "title": "Outgoing links from Lecture 4"
             }
           },
           {
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS149/Lecture 3.md",
+                "file": "CS149/Lecture 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 3"
+              "title": "Outline of Lecture 4"
             }
           }
         ]
@@ -198,11 +212,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "0b06557ff553d72d",
+  "active": "d52f0f010d9d0aaf",
   "lastOpenFiles": [
-    "CS149/Images/Pasted image 20260707192543.png",
+    "CPP/images/Pasted image 20260711201414.png",
+    "CPP/images",
+    "CPP/images/Pasted image 20260711201439.png",
+    "CPP/Useful.md",
+    "CPP/0_Intro/0.5 - Introduction to the compiler, linker, and libraries.md",
+    "CPP/0_Intro/src/hello_world",
+    "CPP/0_Intro/src/hello_world.cpp",
+    "CPP/0_Intro/src",
+    "CPP/0_Intro/0.4 - Introduction to C++ development.md",
+    "CS149/Lecture 5.md",
+    "CPP/0_Intro",
+    "CPP",
+    "CS149/Lecture 4.md",
     "CS149/Lecture 2.md",
     "CS149/Lecture 3.md",
+    "CS149/Images/Pasted image 20260707192543.png",
     "CS149/Images/Pasted image 20260706203206.png",
     "CS149/Images/Pasted image 20260706202642.png",
     "CS149/Images/Pasted image 20260706202603.png",
@@ -210,8 +237,6 @@
     "CS149/Images/Pasted image 20260706203253.png",
     "CS149/Images/Pasted image 20260706194527.png",
     "CS149/Images/Pasted image 20260706194238.png",
-    "CS149/Images/Pasted image 20260706185848.png",
-    "CS149/Images/Pasted image 20260706183823.png",
     "CS149/Images",
     "CS149"
   ]
