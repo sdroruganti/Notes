@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPP/Useful.md",
+                "file": "CS149/Lecture 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful"
+              "title": "Lecture 5"
             }
           }
         ],
@@ -214,13 +214,13 @@
   },
   "active": "d52f0f010d9d0aaf",
   "lastOpenFiles": [
+    "CPP/Useful.md",
     "CPP/0_Intro/src/print_standard",
     "CPP/0_Intro/src/print_standard.cpp~",
     "CPP/0_Intro/src/print_standard.cpp",
     "CPP/images/Pasted image 20260711201414.png",
     "CPP/images",
     "CPP/images/Pasted image 20260711201439.png",
-    "CPP/Useful.md",
     "CPP/0_Intro/0.5 - Introduction to the compiler, linker, and libraries.md",
     "CPP/0_Intro/src/hello_world",
     "CPP/0_Intro/src/hello_world.cpp",
@@ -240,7 +240,6 @@
     "CS149/Images/Pasted image 20260706203253.png",
     "CS149/Images/Pasted image 20260706194527.png",
     "CS149/Images/Pasted image 20260706194238.png",
-    "CS149/Images",
-    "CS149"
+    "CS149/Images"
   ]
 }
